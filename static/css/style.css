@@ -688,11 +688,11 @@ footer a {
 		width: 33.3%;
 	}
 
-	.four-cols .box:nth-child(4n+0) {
+	.four-cols .box:nth-child(3n+0) {
 		margin-right: 0;
 	}
 	
-	.four-cols .box:nth-child(4n+1) {
+	.four-cols .box:nth-child(3n+1) {
 		margin-left: 0;
 	}	
 
